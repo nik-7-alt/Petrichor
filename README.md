@@ -66,6 +66,7 @@ Team Members: Thanuja Vaddigala
 
 
 🔜 Roadmap
+
  Mobile app development
  
  Drone integration
