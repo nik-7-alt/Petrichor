@@ -75,7 +75,7 @@ Team Members: Thanuja Vaddigala
  
  Advanced soil analysis
  
- sensor based watering technique 
+ Sensor based watering techniques
  
- droning the the weather patterns
+ Droning the the weather patterns
  
