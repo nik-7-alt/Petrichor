@@ -57,9 +57,13 @@ Monitoring Dashboard
 
 Beneficiary's: 
  Large farm owners
+ 
  Green house management
+ 
  People fond of planting
+ 
  Creating and maintaining own gardens etc..
+ 
 
 🎥 Demo
 Watch our video demonstration: https://youtu.be/e8GejJ22Yxc?si=tH_n5htFm1HncMHt
