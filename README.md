@@ -1,7 +1,6 @@
 AI-Driven Farming Support is an intelligent agricultural platform that combines AI chatbot assistance, smart crop recommendations, and automated monitoring systems to help farmers maximize yields and efficiency. Our solution makes advanced farming technology accessible to everyone, turning complex agricultural data into actionable insights.
 
-Repository files navigation
-README
+
 AI-Driven Farming Support System 🌾
 An innovative AI-powered solution addressing critical challenges in modern agriculture through intelligent automation and data-driven insights.
 
@@ -61,6 +60,7 @@ Watch our video demonstration: https://youtu.be/e8GejJ22Yxc?si=tH_n5htFm1HncMHt
 
 👥 Team
 Project Lead: Nikhila Pothuru 
+
 ML Engineers: Thanuja Vaddigala 
          and Nandini Reddy Ponuganti
 
