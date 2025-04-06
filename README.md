@@ -38,6 +38,7 @@ Disease Detection: Early identification of crop diseases using computer vision
 5. Monitoring Systems 📹
 Livestock Monitoring: AI-powered health and behavior tracking
 Intruder Detection: Advanced security system using computer vision
+6. Schedule Watering: AI - powered interface helps to monitor the soil moisture to water plants by using sensors and drones
    
 # Launch the web interface
 NTN start
@@ -54,6 +55,11 @@ Input current conditions
 Receive tailored recommendations
 Monitoring Dashboard
 
+Beneficiary's: 
+ Large farm owners
+ Green house management
+ People fond of planting
+ Creating and maintaining own gardens etc..
 
 🎥 Demo
 Watch our video demonstration: https://youtu.be/e8GejJ22Yxc?si=tH_n5htFm1HncMHt
@@ -78,4 +84,5 @@ Team Members: Thanuja Vaddigala
  Sensor based watering techniques
  
  Droning the the weather patterns
+
  
