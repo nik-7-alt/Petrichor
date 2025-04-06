@@ -61,14 +61,20 @@ Watch our video demonstration: https://youtu.be/e8GejJ22Yxc?si=tH_n5htFm1HncMHt
 👥 Team
 Project Lead: Nikhila Pothuru 
 
-ML Engineers: Thanuja Vaddigala 
+Team Members: Thanuja Vaddigala 
          and Nandini Reddy Ponuganti
 
 
 🔜 Roadmap
  Mobile app development
+ 
  Drone integration
+ 
  Blockchain integration for supply chain
+ 
  Advanced soil analysis
+ 
  sensor based watering technique 
+ 
  droning the the weather patterns
+ 
