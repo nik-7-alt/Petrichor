@@ -56,6 +56,7 @@ Receive tailored recommendations
 Monitoring Dashboard
 
 Beneficiary's: 
+
  Large farm owners
  
  Green house management
